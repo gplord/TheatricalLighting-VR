@@ -1,0 +1,46 @@
+[
+  {
+    "Target_Type": 1,
+    "Target_Type_As_Text": "Cue"
+  },
+  {
+    "Target_Type": 2,
+    "Target_Type_As_Text": "Sub"
+  },
+  {
+    "Target_Type": 3,
+    "Target_Type_As_Text": "Color_Palette"
+  },
+  {
+    "Target_Type": 4,
+    "Target_Type_As_Text": "Preset"
+  },
+  {
+    "Target_Type": 5,
+    "Target_Type_As_Text": "Group"
+  },
+  {
+    "Target_Type": 10,
+    "Target_Type_As_Text": "Effect"
+  },
+  {
+    "Target_Type": 13,
+    "Target_Type_As_Text": "Macro"
+  },
+  {
+    "Target_Type": 34,
+    "Target_Type_As_Text": "Snapshot"
+  },
+  {
+    "Target_Type": 36,
+    "Target_Type_As_Text": "Curve"
+  },
+  {
+    "Target_Type": 40,
+    "Target_Type_As_Text": "Partition"
+  },
+  {
+    "Target_Type": 54,
+    "Target_Type_As_Text": "Color_Path"
+  }
+]

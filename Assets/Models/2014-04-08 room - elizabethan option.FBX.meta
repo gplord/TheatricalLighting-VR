@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 4a4327067b21fc84cae9c163c625856f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group_003
+    100004: Group_007
+    100006: 3d-MAN2_001
+    100008: 3d-MAN2_014
+    100010: sb-3dc-m2_476
+    100012: sb-3dc-m2_477
+    100014: sb-3dc-m2_478
+    100016: sb-3dc-m2_479
+    100018: sb-3dc-m2_480
+    100020: sb-3dc-m2_481
+    100022: sb-3dc-m2_482
+    100024: sb-3dc-m2_483
+    100026: sb-3dc-m2_484
+    100028: sb-3dc-m2_485
+    100030: sb-3dc-m2_486
+    100032: sb-3dc-m2_487
+    100034: Thrust Partition Component#119_001
+    100036: Thrust Partition Component#119_002
+    100038: Component#18_001
+    100040: Component#18_002
+    100042: Component#18_003
+    100044: Component#18_004
+    100046: Component#18_005
+    100048: Component#18_006
+    100050: Component#18_007
+    100052: Component#18_008
+    100054: Component#18_009
+    100056: Component#18_166
+    100058: Component#18_167
+    100060: Component#18_168
+    100062: Component#18_169
+    100064: Component#18_170
+    100066: Component#18_171
+    100068: Component#18_172
+    100070: Component#18_173
+    100072: Component#18_174
+    100074: Component#20_001
+    100076: Component#20_002
+    400000: //RootNode
+    400002: Group_003
+    400004: Group_007
+    400006: 3d-MAN2_001
+    400008: 3d-MAN2_014
+    400010: sb-3dc-m2_476
+    400012: sb-3dc-m2_477
+    400014: sb-3dc-m2_478
+    400016: sb-3dc-m2_479
+    400018: sb-3dc-m2_480
+    400020: sb-3dc-m2_481
+    400022: sb-3dc-m2_482
+    400024: sb-3dc-m2_483
+    400026: sb-3dc-m2_484
+    400028: sb-3dc-m2_485
+    400030: sb-3dc-m2_486
+    400032: sb-3dc-m2_487
+    400034: Thrust Partition Component#119_001
+    400036: Thrust Partition Component#119_002
+    400038: Component#18_001
+    400040: Component#18_002
+    400042: Component#18_003
+    400044: Component#18_004
+    400046: Component#18_005
+    400048: Component#18_006
+    400050: Component#18_007
+    400052: Component#18_008
+    400054: Component#18_009
+    400056: Component#18_166
+    400058: Component#18_167
+    400060: Component#18_168
+    400062: Component#18_169
+    400064: Component#18_170
+    400066: Component#18_171
+    400068: Component#18_172
+    400070: Component#18_173
+    400072: Component#18_174
+    400074: Component#20_001
+    400076: Component#20_002
+    2300000: Group_003
+    2300002: Group_007
+    2300004: 3d-MAN2_001
+    2300006: 3d-MAN2_014
+    2300008: sb-3dc-m2_476
+    2300010: sb-3dc-m2_477
+    2300012: sb-3dc-m2_478
+    2300014: sb-3dc-m2_479
+    2300016: sb-3dc-m2_480
+    2300018: sb-3dc-m2_481
+    2300020: sb-3dc-m2_482
+    2300022: sb-3dc-m2_483
+    2300024: sb-3dc-m2_484
+    2300026: sb-3dc-m2_485
+    2300028: sb-3dc-m2_486
+    2300030: sb-3dc-m2_487
+    2300032: Thrust Partition Component#119_001
+    2300034: Thrust Partition Component#119_002
+    2300036: Component#18_001
+    2300038: Component#18_002
+    2300040: Component#18_003
+    2300042: Component#18_004
+    2300044: Component#18_005
+    2300046: Component#18_006
+    2300048: Component#18_007
+    2300050: Component#18_008
+    2300052: Component#18_009
+    2300054: Component#18_166
+    2300056: Component#18_167
+    2300058: Component#18_168
+    2300060: Component#18_169
+    2300062: Component#18_170
+    2300064: Component#18_171
+    2300066: Component#18_172
+    2300068: Component#18_173
+    2300070: Component#18_174
+    2300072: Component#20_001
+    2300074: Component#20_002
+    3300000: Group_003
+    3300002: Group_007
+    3300004: 3d-MAN2_001
+    3300006: 3d-MAN2_014
+    3300008: sb-3dc-m2_476
+    3300010: sb-3dc-m2_477
+    3300012: sb-3dc-m2_478
+    3300014: sb-3dc-m2_479
+    3300016: sb-3dc-m2_480
+    3300018: sb-3dc-m2_481
+    3300020: sb-3dc-m2_482
+    3300022: sb-3dc-m2_483
+    3300024: sb-3dc-m2_484
+    3300026: sb-3dc-m2_485
+    3300028: sb-3dc-m2_486
+    3300030: sb-3dc-m2_487
+    3300032: Thrust Partition Component#119_001
+    3300034: Thrust Partition Component#119_002
+    3300036: Component#18_001
+    3300038: Component#18_002
+    3300040: Component#18_003
+    3300042: Component#18_004
+    3300044: Component#18_005
+    3300046: Component#18_006
+    3300048: Component#18_007
+    3300050: Component#18_008
+    3300052: Component#18_009
+    3300054: Component#18_166
+    3300056: Component#18_167
+    3300058: Component#18_168
+    3300060: Component#18_169
+    3300062: Component#18_170
+    3300064: Component#18_171
+    3300066: Component#18_172
+    3300068: Component#18_173
+    3300070: Component#18_174
+    3300072: Component#20_001
+    3300074: Component#20_002
+    4300000: Group_003
+    4300002: 3d-MAN2_001
+    4300004: Thrust Partition Component#119_001
+    4300006: sb-3dc-m2_476
+    4300008: Component#18_001
+    4300010: Component#20_001
+    4300012: Thrust Partition Component#119_002
+    4300014: Group_007
+    4300016: Component#20_002
+    4300018: 3d-MAN2_014
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

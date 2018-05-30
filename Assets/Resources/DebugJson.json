@@ -1,0 +1,127 @@
+{
+  "Stage": {
+    "width": 100,
+    "depth": 80,
+    "height": 10,
+    "rake": 5
+  },
+  "House": {
+    "width": 150,
+    "depth": 250,
+    "height": 80,
+    "position": {
+      "x": -25,
+      "y": 0,
+      "z": -150,
+      "normalized": {
+        "x": -0.164398983,
+        "y": 0,
+        "z": -0.9863939,
+        "magnitude": 1,
+        "sqrMagnitude": 1
+      },
+      "magnitude": 152.069061,
+      "sqrMagnitude": 23125
+    }
+  },
+  "Cues": [
+    {
+      "pipes": [
+        {
+          "width": 90,
+          "position": {
+            "x": 5,
+            "y": 40,
+            "z": 10,
+            "normalized": {
+              "x": 0.12403474,
+              "y": 0.9922779,
+              "z": 0,
+              "magnitude": 1,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 40.3112869,
+            "sqrMagnitude": 1625
+          },
+          "lights": [
+            {
+              "active": true,
+              "position": 10,
+              "intensity": 0.53,
+              "gobo": "0",
+              "rotation": {
+                "x": 55,
+                "y": 0,
+                "z": 0,
+                "normalized": {
+                  "x": 1,
+                  "y": 0,
+                  "z": 0,
+                  "magnitude": 1,
+                  "sqrMagnitude": 1
+                },
+                "magnitude": 74.57143,
+                "sqrMagnitude": 5560.89746
+              },
+              "colorR": 255,
+              "colorG": 250,
+              "colorB": 255,
+              "colorA": 255
+            },
+            {
+              "active": true,
+              "position": 80,
+              "intensity": 0.5,
+              "gobo": "2",
+              "rotation": {
+                "x": 55,
+                "y": 0,
+                "z": 0,
+                "normalized": {
+                  "x": 1,
+                  "y": 0,
+                  "z": 0,
+                  "magnitude": 1,
+                  "sqrMagnitude": 1
+                },
+                "magnitude": 74.57143,
+                "sqrMagnitude": 5560.89746
+              },
+              "colorR": 255,
+              "colorG": 255,
+              "colorB": 255,
+              "colorA": 255
+            },
+            {
+              "active": true,
+              "position": 45,
+              "intensity": 0.5,
+              "gobo": "0",
+              "rotation": {
+                "x": 55,
+                "y": 0,
+                "z": 0,
+                "normalized": {
+                  "x": 1,
+                  "y": 0,
+                  "z": 0,
+                  "magnitude": 1,
+                  "sqrMagnitude": 1
+                },
+                "magnitude": 45,
+                "sqrMagnitude": 2025
+              },
+              "colorR": 255,
+              "colorG": 255,
+              "colorB": 255,
+              "colorA": 255
+            }
+          ],
+          "center": true,
+          "vertical": false
+        }
+      ]
+    }
+  ],
+  "active": true
+}

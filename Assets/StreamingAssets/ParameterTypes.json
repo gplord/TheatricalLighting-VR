@@ -1,0 +1,697 @@
+[
+  {
+    "Parameter_Type": 1,
+    "Parameter_Type_As_Text": "Intens",
+    "Level": "Intensity"
+  },
+  {
+    "Parameter_Type": 2,
+    "Parameter_Type_As_Text": "Pan",
+    "Level": "Focus"
+  },
+  {
+    "Parameter_Type": 3,
+    "Parameter_Type_As_Text": "Tilt",
+    "Level": "Focus"
+  },
+  {
+    "Parameter_Type": 7,
+    "Parameter_Type_As_Text": "Hue",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 8,
+    "Parameter_Type_As_Text": "Saturation",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 9,
+    "Parameter_Type_As_Text": "Cyan",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 10,
+    "Parameter_Type_As_Text": "Magenta",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 11,
+    "Parameter_Type_As_Text": "Yellow",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 12,
+    "Parameter_Type_As_Text": "Red",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13,
+    "Parameter_Type_As_Text": "Green",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 14,
+    "Parameter_Type_As_Text": "Blue",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 17,
+    "Parameter_Type_As_Text": "Cooling_Fan",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 19,
+    "Parameter_Type_As_Text": "_Enable",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 48,
+    "Parameter_Type_As_Text": "Amber",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 51,
+    "Parameter_Type_As_Text": "White",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 61,
+    "Parameter_Type_As_Text": "CTO",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 73,
+    "Parameter_Type_As_Text": "Iris",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 76,
+    "Parameter_Type_As_Text": "Diffusion",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 78,
+    "Parameter_Type_As_Text": "Edge",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 79,
+    "Parameter_Type_As_Text": "Zoom",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 89,
+    "Parameter_Type_As_Text": "In_Point",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 90,
+    "Parameter_Type_As_Text": "Out_Point",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 91,
+    "Parameter_Type_As_Text": "Playback_Speed",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 95,
+    "Parameter_Type_As_Text": "Z_Rotate",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 96,
+    "Parameter_Type_As_Text": "Scale_X",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 97,
+    "Parameter_Type_As_Text": "Scale_Y",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 100,
+    "Parameter_Type_As_Text": "Keystone_X1",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 101,
+    "Parameter_Type_As_Text": "Keystone_Y1",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 102,
+    "Parameter_Type_As_Text": "Keystone_X2",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 103,
+    "Parameter_Type_As_Text": "Keystone_Y2",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 104,
+    "Parameter_Type_As_Text": "Keystone_X3",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 105,
+    "Parameter_Type_As_Text": "Keystone_Y3",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 106,
+    "Parameter_Type_As_Text": "Keystone_X4",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 107,
+    "Parameter_Type_As_Text": "Keystone_Y4",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 110,
+    "Parameter_Type_As_Text": "Play_Mode",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 131,
+    "Parameter_Type_As_Text": "Fixture_Global_Reset",
+    "Level": "Control"
+  },
+  {
+    "Parameter_Type": 192,
+    "Parameter_Type_As_Text": "Intens_2",
+    "Level": "Intensity"
+  },
+  {
+    "Parameter_Type": 199,
+    "Parameter_Type_As_Text": "Color_Select",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 200,
+    "Parameter_Type_As_Text": "Gobo_Select",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 201,
+    "Parameter_Type_As_Text": "Beam_Fx_Select",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 203,
+    "Parameter_Type_As_Text": "Position_MSpeed",
+    "Level": "Focus"
+  },
+  {
+    "Parameter_Type": 204,
+    "Parameter_Type_As_Text": "Shutter_Strobe",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 206,
+    "Parameter_Type_As_Text": "Gobo_Index/Speed",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 207,
+    "Parameter_Type_As_Text": "_Lamp_Control",
+    "Level": "Control"
+  },
+  {
+    "Parameter_Type": 211,
+    "Parameter_Type_As_Text": "Frame_Angle_A",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 212,
+    "Parameter_Type_As_Text": "Frame_Thrust_A",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 213,
+    "Parameter_Type_As_Text": "Frame_Angle_B",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 214,
+    "Parameter_Type_As_Text": "Frame_Thrust_B",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 215,
+    "Parameter_Type_As_Text": "Frame_Angle_C",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 216,
+    "Parameter_Type_As_Text": "Frame_Thrust_C",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 217,
+    "Parameter_Type_As_Text": "Frame_Angle_D",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 218,
+    "Parameter_Type_As_Text": "Frame_Thrust_D",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 219,
+    "Parameter_Type_As_Text": "Gobo_Select_2",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 220,
+    "Parameter_Type_As_Text": "Frame_Assembly",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 221,
+    "Parameter_Type_As_Text": "Gobo_Index/Speed_2",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 222,
+    "Parameter_Type_As_Text": "Color_Select_2",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 229,
+    "Parameter_Type_As_Text": "Gobo_Select_3",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 230,
+    "Parameter_Type_As_Text": "Animation_Select",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 233,
+    "Parameter_Type_As_Text": "Animation_Index/Speed",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 234,
+    "Parameter_Type_As_Text": "Beam_Fx_Index/Speed",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 235,
+    "Parameter_Type_As_Text": "Diffusion_2",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 240,
+    "Parameter_Type_As_Text": "Frame_a_1",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 241,
+    "Parameter_Type_As_Text": "Frame_b_1",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 242,
+    "Parameter_Type_As_Text": "Frame_a_3",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 243,
+    "Parameter_Type_As_Text": "Frame_b_3",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 244,
+    "Parameter_Type_As_Text": "Frame_a_4",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 245,
+    "Parameter_Type_As_Text": "Frame_b_4",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 246,
+    "Parameter_Type_As_Text": "Frame_a_2",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 247,
+    "Parameter_Type_As_Text": "Frame_b_2",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 263,
+    "Parameter_Type_As_Text": "Barndoor_3",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 264,
+    "Parameter_Type_As_Text": "Barndoor_4",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 265,
+    "Parameter_Type_As_Text": "Barndoors_Assembly",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 301,
+    "Parameter_Type_As_Text": "Output_Preset",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 316,
+    "Parameter_Type_As_Text": "Color_Mix_MSpeed",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 361,
+    "Parameter_Type_As_Text": "Library",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 362,
+    "Parameter_Type_As_Text": "File",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 384,
+    "Parameter_Type_As_Text": "Red_2",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 385,
+    "Parameter_Type_As_Text": "Green_2",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 386,
+    "Parameter_Type_As_Text": "Blue_2",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 671,
+    "Parameter_Type_As_Text": "Color_Mix_2",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 672,
+    "Parameter_Type_As_Text": "Shutter_Strobe_2",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 809,
+    "Parameter_Type_As_Text": "Haze",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 1006,
+    "Parameter_Type_As_Text": "X_Rotate",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 1007,
+    "Parameter_Type_As_Text": "Y_Rotate",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 1010,
+    "Parameter_Type_As_Text": "Viewpoint_Mode",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 1088,
+    "Parameter_Type_As_Text": "Fx1_Select",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 1415,
+    "Parameter_Type_As_Text": "Fog",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 1719,
+    "Parameter_Type_As_Text": "Color_Temperature",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 1775,
+    "Parameter_Type_As_Text": "_Scale",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 1783,
+    "Parameter_Type_As_Text": "Aspect_Ratio",
+    "Level": "Shutter"
+  },
+  {
+    "Parameter_Type": 1871,
+    "Parameter_Type_As_Text": "Blower",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 1875,
+    "Parameter_Type_As_Text": "Position_Optimisation_Mode",
+    "Level": "Control"
+  },
+  {
+    "Parameter_Type": 1970,
+    "Parameter_Type_As_Text": "Contrast",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 1972,
+    "Parameter_Type_As_Text": "Fx_Para_1",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 2067,
+    "Parameter_Type_As_Text": "Effect_Macros",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 2075,
+    "Parameter_Type_As_Text": "Fx_Para_2",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 2439,
+    "Parameter_Type_As_Text": "Fixture_Sleep",
+    "Level": "Control"
+  },
+  {
+    "Parameter_Type": 2742,
+    "Parameter_Type_As_Text": "Trails_Duration",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 2743,
+    "Parameter_Type_As_Text": "Image_Movement_Speed",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 2828,
+    "Parameter_Type_As_Text": "_Color_Effect",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 2864,
+    "Parameter_Type_As_Text": "Control_1",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 2865,
+    "Parameter_Type_As_Text": "Control_2",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 3215,
+    "Parameter_Type_As_Text": "Color_MSpeed",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 3222,
+    "Parameter_Type_As_Text": "Beam_MSpeed",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 3462,
+    "Parameter_Type_As_Text": "_Cue",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 3562,
+    "Parameter_Type_As_Text": "Intens_1",
+    "Level": "Intensity"
+  },
+  {
+    "Parameter_Type": 4400,
+    "Parameter_Type_As_Text": "Page",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 8561,
+    "Parameter_Type_As_Text": "Edge_2",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 8976,
+    "Parameter_Type_As_Text": "Proj_Mode",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 8998,
+    "Parameter_Type_As_Text": "Gobo_Wheel_Select_MSpeed_2",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 9710,
+    "Parameter_Type_As_Text": "Effect_Macro_Rate",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 9736,
+    "Parameter_Type_As_Text": "Proj_Shutter",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 11112,
+    "Parameter_Type_As_Text": "Controller",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 11876,
+    "Parameter_Type_As_Text": "Effect_Macros_2",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 11886,
+    "Parameter_Type_As_Text": "Color_Mix_Position",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 12080,
+    "Parameter_Type_As_Text": "Flame",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 13205,
+    "Parameter_Type_As_Text": "Effect_Macro_Rate_2",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 13207,
+    "Parameter_Type_As_Text": "Effect_Macros_3",
+    "Level": "Image"
+  },
+  {
+    "Parameter_Type": 13799,
+    "Parameter_Type_As_Text": "Fixture_Enable",
+    "Level": "Control"
+  },
+  {
+    "Parameter_Type": 13912,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_4",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13913,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_5",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13914,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_6",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13915,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_7",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13916,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_8",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13917,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_9",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13918,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_10",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13919,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_11",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13920,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_12",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13921,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_13",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13922,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_14",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13923,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_15",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13924,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_16",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13925,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_17",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13926,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_18",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13927,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_19",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 13928,
+    "Parameter_Type_As_Text": "Color_Effect_Parameter_20",
+    "Level": "Color"
+  },
+  {
+    "Parameter_Type": 14491,
+    "Parameter_Type_As_Text": "Heat",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 17721,
+    "Parameter_Type_As_Text": "CO2",
+    "Level": "Form"
+  },
+  {
+    "Parameter_Type": 23808,
+    "Parameter_Type_As_Text": "Wheel_Mode",
+    "Level": "Form"
+  }
+]

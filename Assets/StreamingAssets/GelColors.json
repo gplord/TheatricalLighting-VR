@@ -1,0 +1,1335 @@
+{
+"GelColors": [
+  {
+    "GelColor": "R00",
+    "GelName": "- Test Entry -",
+    "R": 255,
+    "G": 127,
+    "B": 64
+  },
+  {
+    "GelColor": "R01",
+    "GelName": "Light Bastard Amber",
+    "R": 251,
+    "G": 179,
+    "B": 154
+  },
+  {
+    "GelColor": "R02",
+    "GelName": "Bastard Amber",
+    "R": 255,
+    "G": 209,
+    "B": 172
+  },
+  {
+    "GelColor": "R302",
+    "GelName": "Pale Bastard Amber",
+    "R": 254,
+    "G": 229,
+    "B": 207
+  },
+  {
+    "GelColor": "R03",
+    "GelName": "Dark Bastard Amber",
+    "R": 251,
+    "G": 186,
+    "B": 154
+  },
+  {
+    "GelColor": "R303",
+    "GelName": "Warm Peach",
+    "R": 255,
+    "G": 138,
+    "B": 74
+  },
+  {
+    "GelColor": "R04",
+    "GelName": "Medium Bastard Amber",
+    "R": 249,
+    "G": 176,
+    "B": 154
+  },
+  {
+    "GelColor": "R304",
+    "GelName": "Pale Apricot",
+    "R": 250,
+    "G": 188,
+    "B": 169
+  },
+  {
+    "GelColor": "R05",
+    "GelName": "Rose Tint",
+    "R": 255,
+    "G": 215,
+    "B": 211
+  },
+  {
+    "GelColor": "R305",
+    "GelName": "Rose Gold",
+    "R": 245,
+    "G": 186,
+    "B": 184
+  },
+  {
+    "GelColor": "R06",
+    "GelName": "No Color Straw",
+    "R": 252,
+    "G": 250,
+    "B": 219
+  },
+  {
+    "GelColor": "R07",
+    "GelName": "Pale Yellow",
+    "R": 253,
+    "G": 250,
+    "B": 209
+  },
+  {
+    "GelColor": "R08",
+    "GelName": "Pale Gold",
+    "R": 255,
+    "G": 224,
+    "B": 184
+  },
+  {
+    "GelColor": "R09",
+    "GelName": "Pale Amber Gold",
+    "R": 255,
+    "G": 203,
+    "B": 134
+  },
+  {
+    "GelColor": "R10",
+    "GelName": "Medium Yellow",
+    "R": 255,
+    "G": 242,
+    "B": 0
+  },
+  {
+    "GelColor": "R310",
+    "GelName": "Daffodil",
+    "R": 255,
+    "G": 239,
+    "B": 79
+  },
+  {
+    "GelColor": "R11",
+    "GelName": "Light Straw",
+    "R": 255,
+    "G": 210,
+    "B": 26
+  },
+  {
+    "GelColor": "R12",
+    "GelName": "Straw",
+    "R": 255,
+    "G": 246,
+    "B": 77
+  },
+  {
+    "GelColor": "R312",
+    "GelName": "Canary",
+    "R": 255,
+    "G": 234,
+    "B": 0
+  },
+  {
+    "GelColor": "R13",
+    "GelName": "Straw Tint",
+    "R": 255,
+    "G": 216,
+    "B": 143
+  },
+  {
+    "GelColor": "R313",
+    "GelName": "Light Relief Yellow",
+    "R": 255,
+    "G": 228,
+    "B": 98
+  },
+  {
+    "GelColor": "R14",
+    "GelName": "Medium Straw",
+    "R": 252,
+    "G": 212,
+    "B": 25
+  },
+  {
+    "GelColor": "R15",
+    "GelName": "Deep Straw",
+    "R": 252,
+    "G": 203,
+    "B": 0
+  },
+  {
+    "GelColor": "R16",
+    "GelName": "Light Amber",
+    "R": 255,
+    "G": 196,
+    "B": 125
+  },
+  {
+    "GelColor": "R316",
+    "GelName": "Gallo Gold",
+    "R": 247,
+    "G": 170,
+    "B": 79
+  },
+  {
+    "GelColor": "R17",
+    "GelName": "Light Flame",
+    "R": 255,
+    "G": 147,
+    "B": 75
+  },
+  {
+    "GelColor": "R317",
+    "GelName": "Apricot",
+    "R": 255,
+    "G": 116,
+    "B": 24
+  },
+  {
+    "GelColor": "R18",
+    "GelName": "Flame",
+    "R": 255,
+    "G": 147,
+    "B": 67
+  },
+  {
+    "GelColor": "R318",
+    "GelName": "Mayan Sun",
+    "R": 255,
+    "G": 111,
+    "B": 41
+  },
+  {
+    "GelColor": "R19",
+    "GelName": "Fire",
+    "R": 255,
+    "G": 57,
+    "B": 11
+  },
+  {
+    "GelColor": "R20",
+    "GelName": "Medium Amber",
+    "R": 255,
+    "G": 135,
+    "B": 28
+  },
+  {
+    "GelColor": "R21",
+    "GelName": "Golden Amber",
+    "R": 255,
+    "G": 102,
+    "B": 19
+  },
+  {
+    "GelColor": "R321",
+    "GelName": "Soft Golden Amber",
+    "R": 255,
+    "G": 148,
+    "B": 60
+  },
+  {
+    "GelColor": "R22",
+    "GelName": "Deep Amber",
+    "R": 255,
+    "G": 67,
+    "B": 10
+  },
+  {
+    "GelColor": "R23",
+    "GelName": "Orange",
+    "R": 255,
+    "G": 90,
+    "B": 0
+  },
+  {
+    "GelColor": "R24",
+    "GelName": "Scarlet",
+    "R": 245,
+    "G": 0,
+    "B": 20
+  },
+  {
+    "GelColor": "R324",
+    "GelName": "Gypsy Red",
+    "R": 245,
+    "G": 15,
+    "B": 57
+  },
+  {
+    "GelColor": "R25",
+    "GelName": "Orange Red",
+    "R": 229,
+    "G": 31,
+    "B": 0
+  },
+  {
+    "GelColor": "R325",
+    "GelName": "Henna Sky",
+    "R": 227,
+    "G": 43,
+    "B": 12
+  },
+  {
+    "GelColor": "R26",
+    "GelName": "Light Red",
+    "R": 215,
+    "G": 2,
+    "B": 41
+  },
+  {
+    "GelColor": "R27",
+    "GelName": "Medium Red",
+    "R": 176,
+    "G": 2,
+    "B": 2
+  },
+  {
+    "GelColor": "R30",
+    "GelName": "Light Salmon Pink",
+    "R": 255,
+    "G": 122,
+    "B": 89
+  },
+  {
+    "GelColor": "R31",
+    "GelName": "Salmon Pink",
+    "R": 255,
+    "G": 132,
+    "B": 127
+  },
+  {
+    "GelColor": "R331",
+    "GelName": "Shell Pink",
+    "R": 255,
+    "G": 157,
+    "B": 141
+  },
+  {
+    "GelColor": "R32",
+    "GelName": "Medium Salmon Pink",
+    "R": 255,
+    "G": 65,
+    "B": 60
+  },
+  {
+    "GelColor": "R332",
+    "GelName": "Cherry Rose",
+    "R": 255,
+    "G": 41,
+    "B": 87
+  },
+  {
+    "GelColor": "R33",
+    "GelName": "No Color Pink",
+    "R": 255,
+    "G": 194,
+    "B": 208
+  },
+  {
+    "GelColor": "R333",
+    "GelName": "Blush Pink",
+    "R": 249,
+    "G": 197,
+    "B": 216
+  },
+  {
+    "GelColor": "R34",
+    "GelName": "Flesh Pink",
+    "R": 255,
+    "G": 141,
+    "B": 141
+  },
+  {
+    "GelColor": "R35",
+    "GelName": "Light Pink",
+    "R": 255,
+    "G": 167,
+    "B": 187
+  },
+  {
+    "GelColor": "R36",
+    "GelName": "Medium Pink",
+    "R": 255,
+    "G": 109,
+    "B": 150
+  },
+  {
+    "GelColor": "R336",
+    "GelName": "Billington Pink",
+    "R": 225,
+    "G": 115,
+    "B": 183
+  },
+  {
+    "GelColor": "R37",
+    "GelName": "Pale Rose Pink",
+    "R": 247,
+    "G": 177,
+    "B": 203
+  },
+  {
+    "GelColor": "R337",
+    "GelName": "True Pink",
+    "R": 255,
+    "G": 175,
+    "B": 194
+  },
+  {
+    "GelColor": "R38",
+    "GelName": "Light Rose",
+    "R": 255,
+    "G": 187,
+    "B": 226
+  },
+  {
+    "GelColor": "R39",
+    "GelName": "Skelton Exotic Sangria",
+    "R": 232,
+    "G": 0,
+    "B": 188
+  },
+  {
+    "GelColor": "R339",
+    "GelName": "Broadway Pink",
+    "R": 255,
+    "G": 18,
+    "B": 131
+  },
+  {
+    "GelColor": "R40",
+    "GelName": "Light Salmon",
+    "R": 255,
+    "G": 79,
+    "B": 31
+  },
+  {
+    "GelColor": "R41",
+    "GelName": "Salmon",
+    "R": 255,
+    "G": 93,
+    "B": 48
+  },
+  {
+    "GelColor": "R42",
+    "GelName": "Deep Salmon",
+    "R": 255,
+    "G": 28,
+    "B": 38
+  },
+  {
+    "GelColor": "R342",
+    "GelName": "Rose Pink",
+    "R": 255,
+    "G": 21,
+    "B": 98
+  },
+  {
+    "GelColor": "R43",
+    "GelName": "Deep Pink",
+    "R": 255,
+    "G": 62,
+    "B": 147
+  },
+  {
+    "GelColor": "R343",
+    "GelName": "Neon Pink",
+    "R": 255,
+    "G": 57,
+    "B": 127
+  },
+  {
+    "GelColor": "R44",
+    "GelName": "Middle Rose",
+    "R": 255,
+    "G": 51,
+    "B": 181
+  },
+  {
+    "GelColor": "R344",
+    "GelName": "Follies Pink",
+    "R": 255,
+    "G": 5,
+    "B": 211
+  },
+  {
+    "GelColor": "R45",
+    "GelName": "Rose",
+    "R": 235,
+    "G": 1,
+    "B": 109
+  },
+  {
+    "GelColor": "R46",
+    "GelName": "Magenta",
+    "R": 189,
+    "G": 4,
+    "B": 93
+  },
+  {
+    "GelColor": "R346",
+    "GelName": "Tropical Magenta",
+    "R": 255,
+    "G": 45,
+    "B": 213
+  },
+  {
+    "GelColor": "R47",
+    "GelName": "Light Rose Purple",
+    "R": 204,
+    "G": 78,
+    "B": 185
+  },
+  {
+    "GelColor": "R347",
+    "GelName": "Belladonna Rose",
+    "R": 177,
+    "G": 1,
+    "B": 221
+  },
+  {
+    "GelColor": "R48",
+    "GelName": "Rose Purple",
+    "R": 200,
+    "G": 0,
+    "B": 207
+  },
+  {
+    "GelColor": "R348",
+    "GelName": "Purple Jazz",
+    "R": 218,
+    "G": 45,
+    "B": 255
+  },
+  {
+    "GelColor": "R49",
+    "GelName": "Medium Purple",
+    "R": 201,
+    "G": 0,
+    "B": 230
+  },
+  {
+    "GelColor": "R349",
+    "GelName": "Fisher Fuchsia",
+    "R": 240,
+    "G": 0,
+    "B": 255
+  },
+  {
+    "GelColor": "R50",
+    "GelName": "Mauve",
+    "R": 187,
+    "G": 0,
+    "B": 44
+  },
+  {
+    "GelColor": "R51",
+    "GelName": "Surprise Pink",
+    "R": 230,
+    "G": 203,
+    "B": 255
+  },
+  {
+    "GelColor": "R351",
+    "GelName": "Lavender Mist",
+    "R": 239,
+    "G": 220,
+    "B": 255
+  },
+  {
+    "GelColor": "R52",
+    "GelName": "Light Lavender",
+    "R": 221,
+    "G": 191,
+    "B": 255
+  },
+  {
+    "GelColor": "R53",
+    "GelName": "Pale Lavender",
+    "R": 228,
+    "G": 220,
+    "B": 255
+  },
+  {
+    "GelColor": "R353",
+    "GelName": "Lilly Lavender",
+    "R": 196,
+    "G": 173,
+    "B": 255
+  },
+  {
+    "GelColor": "R54",
+    "GelName": "Special Lavender",
+    "R": 230,
+    "G": 199,
+    "B": 255
+  },
+  {
+    "GelColor": "R55",
+    "GelName": "Lilac",
+    "R": 192,
+    "G": 170,
+    "B": 253
+  },
+  {
+    "GelColor": "R355",
+    "GelName": "Pale Violet",
+    "R": 165,
+    "G": 144,
+    "B": 255
+  },
+  {
+    "GelColor": "R56",
+    "GelName": "Gypsy Lavender",
+    "R": 140,
+    "G": 47,
+    "B": 255
+  },
+  {
+    "GelColor": "R356",
+    "GelName": "Middle Lavender",
+    "R": 195,
+    "G": 141,
+    "B": 255
+  },
+  {
+    "GelColor": "R57",
+    "GelName": "Lavender",
+    "R": 180,
+    "G": 130,
+    "B": 255
+  },
+  {
+    "GelColor": "R357",
+    "GelName": "Royal Lavender",
+    "R": 138,
+    "G": 43,
+    "B": 255
+  },
+  {
+    "GelColor": "R58",
+    "GelName": "Deep Lavender",
+    "R": 147,
+    "G": 63,
+    "B": 253
+  },
+  {
+    "GelColor": "R358",
+    "GelName": "Rose Indigo",
+    "R": 142,
+    "G": 10,
+    "B": 234
+  },
+  {
+    "GelColor": "R59",
+    "GelName": "Indigo",
+    "R": 114,
+    "G": 0,
+    "B": 255
+  },
+  {
+    "GelColor": "R359",
+    "GelName": "Medium Violet",
+    "R": 104,
+    "G": 63,
+    "B": 255
+  },
+  {
+    "GelColor": "R60",
+    "GelName": "No Color Blue",
+    "R": 204,
+    "G": 216,
+    "B": 255
+  },
+  {
+    "GelColor": "R360",
+    "GelName": "Clearwater",
+    "R": 201,
+    "G": 209,
+    "B": 255
+  },
+  {
+    "GelColor": "R61",
+    "GelName": "Mist Blue",
+    "R": 211,
+    "G": 234,
+    "B": 255
+  },
+  {
+    "GelColor": "R361",
+    "GelName": "Hemsley Blue",
+    "R": 102,
+    "G": 158,
+    "B": 252
+  },
+  {
+    "GelColor": "R62",
+    "GelName": "Booster Blue",
+    "R": 161,
+    "G": 206,
+    "B": 255
+  },
+  {
+    "GelColor": "R362",
+    "GelName": "Tipton Blue",
+    "R": 167,
+    "G": 188,
+    "B": 255
+  },
+  {
+    "GelColor": "R63",
+    "GelName": "Pale Blue",
+    "R": 164,
+    "G": 211,
+    "B": 255
+  },
+  {
+    "GelColor": "R363",
+    "GelName": "Aquamarine",
+    "R": 171,
+    "G": 233,
+    "B": 255
+  },
+  {
+    "GelColor": "R64",
+    "GelName": "Light Steel Blue",
+    "R": 80,
+    "G": 174,
+    "B": 253
+  },
+  {
+    "GelColor": "R364",
+    "GelName": "Blue Bell",
+    "R": 140,
+    "G": 169,
+    "B": 255
+  },
+  {
+    "GelColor": "R65",
+    "GelName": "Daylight Blue",
+    "R": 0,
+    "G": 169,
+    "B": 255
+  },
+  {
+    "GelColor": "R365",
+    "GelName": "Tharon Delft Blue",
+    "R": 144,
+    "G": 159,
+    "B": 255
+  },
+  {
+    "GelColor": "R66",
+    "GelName": "Cool Blue",
+    "R": 148,
+    "G": 234,
+    "B": 255
+  },
+  {
+    "GelColor": "R366",
+    "GelName": "Jordan Blue",
+    "R": 41,
+    "G": 192,
+    "B": 249
+  },
+  {
+    "GelColor": "R67",
+    "GelName": "Light Sky Blue",
+    "R": 20,
+    "G": 169,
+    "B": 255
+  },
+  {
+    "GelColor": "R367",
+    "GelName": "Slate Blue",
+    "R": 68,
+    "G": 165,
+    "B": 255
+  },
+  {
+    "GelColor": "R68",
+    "GelName": "Parry Sky Blue",
+    "R": 68,
+    "G": 125,
+    "B": 255
+  },
+  {
+    "GelColor": "R368",
+    "GelName": "Winkler Blue",
+    "R": 68,
+    "G": 138,
+    "B": 255
+  },
+  {
+    "GelColor": "R69",
+    "GelName": "Brilliant Blue",
+    "R": 0,
+    "G": 163,
+    "B": 247
+  },
+  {
+    "GelColor": "R369",
+    "GelName": "Tahitian Blue",
+    "R": 0,
+    "G": 198,
+    "B": 255
+  },
+  {
+    "GelColor": "R70",
+    "GelName": "Nile Blue",
+    "R": 108,
+    "G": 229,
+    "B": 255
+  },
+  {
+    "GelColor": "R370",
+    "GelName": "Italian Blue",
+    "R": 1,
+    "G": 205,
+    "B": 223
+  },
+  {
+    "GelColor": "R71",
+    "GelName": "Sea Blue",
+    "R": 0,
+    "G": 150,
+    "B": 199
+  },
+  {
+    "GelColor": "R371",
+    "GelName": "Theatre Booster 1",
+    "R": 163,
+    "G": 168,
+    "B": 255
+  },
+  {
+    "GelColor": "R72",
+    "GelName": "Azure Blue",
+    "R": 85,
+    "G": 204,
+    "B": 255
+  },
+  {
+    "GelColor": "R372",
+    "GelName": "Theatre Booster 2",
+    "R": 217,
+    "G": 220,
+    "B": 255
+  },
+  {
+    "GelColor": "R73",
+    "GelName": "Peacock Blue",
+    "R": 0,
+    "G": 164,
+    "B": 184
+  },
+  {
+    "GelColor": "R373",
+    "GelName": "Theatre Booster 3",
+    "R": 224,
+    "G": 233,
+    "B": 253
+  },
+  {
+    "GelColor": "R74",
+    "GelName": "Night Blue",
+    "R": 66,
+    "G": 0,
+    "B": 255
+  },
+  {
+    "GelColor": "R374",
+    "GelName": "Sea Green",
+    "R": 1,
+    "G": 164,
+    "B": 166
+  },
+  {
+    "GelColor": "R75",
+    "GelName": "Twilight Blue",
+    "R": 0,
+    "G": 122,
+    "B": 172
+  },
+  {
+    "GelColor": "R375",
+    "GelName": "Cerulean Blue",
+    "R": 0,
+    "G": 181,
+    "B": 222
+  },
+  {
+    "GelColor": "R76",
+    "GelName": "Light Green Blue",
+    "R": 0,
+    "G": 87,
+    "B": 115
+  },
+  {
+    "GelColor": "R376",
+    "GelName": "Bermuda Blue",
+    "R": 0,
+    "G": 135,
+    "B": 177
+  },
+  {
+    "GelColor": "R77",
+    "GelName": "Green Blue",
+    "R": 1,
+    "G": 78,
+    "B": 149
+  },
+  {
+    "GelColor": "R377",
+    "GelName": "Iris Purple",
+    "R": 113,
+    "G": 36,
+    "B": 255
+  },
+  {
+    "GelColor": "R78",
+    "GelName": "Trudy Blue",
+    "R": 111,
+    "G": 111,
+    "B": 255
+  },
+  {
+    "GelColor": "R378",
+    "GelName": "Alice Blue",
+    "R": 132,
+    "G": 116,
+    "B": 253
+  },
+  {
+    "GelColor": "R79",
+    "GelName": "Bright Blue",
+    "R": 22,
+    "G": 38,
+    "B": 255
+  },
+  {
+    "GelColor": "R80",
+    "GelName": "Primary Blue",
+    "R": 0,
+    "G": 72,
+    "B": 255
+  },
+  {
+    "GelColor": "R81",
+    "GelName": "Urban Blue",
+    "R": 72,
+    "G": 111,
+    "B": 255
+  },
+  {
+    "GelColor": "R381",
+    "GelName": "Baldassari Blue",
+    "R": 57,
+    "G": 29,
+    "B": 230
+  },
+  {
+    "GelColor": "R82",
+    "GelName": "Surprise Blue",
+    "R": 79,
+    "G": 52,
+    "B": 248
+  },
+  {
+    "GelColor": "R382",
+    "GelName": "Congo Blue",
+    "R": 37,
+    "G": 0,
+    "B": 112
+  },
+  {
+    "GelColor": "R83",
+    "GelName": "Medium Blue",
+    "R": 2,
+    "G": 40,
+    "B": 236
+  },
+  {
+    "GelColor": "R383",
+    "GelName": "Saphire Blue",
+    "R": 0,
+    "G": 34,
+    "B": 209
+  },
+  {
+    "GelColor": "R84",
+    "GelName": "Zephyr Blue",
+    "R": 87,
+    "G": 103,
+    "B": 255
+  },
+  {
+    "GelColor": "R384",
+    "GelName": "Midnight Blue",
+    "R": 5,
+    "G": 0,
+    "B": 208
+  },
+  {
+    "GelColor": "R85",
+    "GelName": "Deep Blue",
+    "R": 0,
+    "G": 73,
+    "B": 206
+  },
+  {
+    "GelColor": "R385",
+    "GelName": "Royal Blue",
+    "R": 79,
+    "G": 2,
+    "B": 207
+  },
+  {
+    "GelColor": "R86",
+    "GelName": "Pea Green",
+    "R": 137,
+    "G": 250,
+    "B": 25
+  },
+  {
+    "GelColor": "R386",
+    "GelName": "Leaf Green",
+    "R": 123,
+    "G": 211,
+    "B": 0
+  },
+  {
+    "GelColor": "R87",
+    "GelName": "Pale Yellow Green",
+    "R": 240,
+    "G": 255,
+    "B": 186
+  },
+  {
+    "GelColor": "R88",
+    "GelName": "Light Green",
+    "R": 220,
+    "G": 254,
+    "B": 146
+  },
+  {
+    "GelColor": "R388",
+    "GelName": "Gaslight Green",
+    "R": 208,
+    "G": 245,
+    "B": 78
+  },
+  {
+    "GelColor": "R89",
+    "GelName": "Moss Green",
+    "R": 81,
+    "G": 246,
+    "B": 85
+  },
+  {
+    "GelColor": "R389",
+    "GelName": "Chroma Green",
+    "R": 41,
+    "G": 244,
+    "B": 51
+  },
+  {
+    "GelColor": "R90",
+    "GelName": "Dark Yellow Green",
+    "R": 0,
+    "G": 127,
+    "B": 6
+  },
+  {
+    "GelColor": "R91",
+    "GelName": "Primary Green",
+    "R": 0,
+    "G": 94,
+    "B": 44
+  },
+  {
+    "GelColor": "R92",
+    "GelName": "Turquoise",
+    "R": 25,
+    "G": 255,
+    "B": 193
+  },
+  {
+    "GelColor": "R392",
+    "GelName": "Pacific Green",
+    "R": 0,
+    "G": 148,
+    "B": 147
+  },
+  {
+    "GelColor": "R93",
+    "GelName": "Blue Green",
+    "R": 1,
+    "G": 163,
+    "B": 160
+  },
+  {
+    "GelColor": "R393",
+    "GelName": "Emerald Green",
+    "R": 0,
+    "G": 113,
+    "B": 80
+  },
+  {
+    "GelColor": "R94",
+    "GelName": "Kelly Green",
+    "R": 0,
+    "G": 152,
+    "B": 93
+  },
+  {
+    "GelColor": "R95",
+    "GelName": "Medium Blue Green",
+    "R": 0,
+    "G": 156,
+    "B": 145
+  },
+  {
+    "GelColor": "R395",
+    "GelName": "Teal Green",
+    "R": 0,
+    "G": 114,
+    "B": 106
+  },
+  {
+    "GelColor": "R96",
+    "GelName": "Lime",
+    "R": 243,
+    "G": 255,
+    "B": 107
+  },
+  {
+    "GelColor": "R97",
+    "GelName": "Light Grey",
+    "R": 192,
+    "G": 191,
+    "B": 192
+  },
+  {
+    "GelColor": "R397",
+    "GelName": "Pale Grey",
+    "R": 212,
+    "G": 211,
+    "B": 211
+  },
+  {
+    "GelColor": "R98",
+    "GelName": "Medium Grey",
+    "R": 143,
+    "G": 137,
+    "B": 137
+  },
+  {
+    "GelColor": "R398",
+    "GelName": "Neutral Grey",
+    "R": 176,
+    "G": 180,
+    "B": 185
+  },
+  {
+    "GelColor": "R99",
+    "GelName": "Chocolate",
+    "R": 208,
+    "G": 136,
+    "B": 100
+  },
+  {
+    "GelColor": "R120",
+    "GelName": "Red Diffusion",
+    "R": 197,
+    "G": 16,
+    "B": 29
+  },
+  {
+    "GelColor": "R121",
+    "GelName": "Blue Diffusion",
+    "R": 55,
+    "G": 76,
+    "B": 238
+  },
+  {
+    "GelColor": "R122",
+    "GelName": "Green Diffusion",
+    "R": 37,
+    "G": 110,
+    "B": 18
+  },
+  {
+    "GelColor": "R124",
+    "GelName": "Red Cyc Silk",
+    "R": 158,
+    "G": 8,
+    "B": 21
+  },
+  {
+    "GelColor": "R125",
+    "GelName": "Blue Cyc Silk",
+    "R": 24,
+    "G": 40,
+    "B": 188
+  },
+  {
+    "GelColor": "R126",
+    "GelName": "Green Cyc Silk",
+    "R": 37,
+    "G": 111,
+    "B": 20
+  },
+  {
+    "GelColor": "R127",
+    "GelName": "",
+    "R": 162,
+    "G": 60,
+    "B": 28
+  },
+  {
+    "GelColor": "L525",
+	"GelName": "Argent Blue",
+	"R": 191,
+	"G": 205,
+	"B": 223
+  },
+  {
+    "GelColor": "L110",
+	"GelName": "Middle Rose",
+	"R": 255,
+	"G": 180,
+	"B": 220
+  },
+  {
+    "GelColor": "L137",
+	"GelName": "Special Lavender",
+	"R": 200,
+	"G": 180,
+	"B": 230
+  },
+  {
+    "GelColor": "L138",
+	"GelName": "Pale Violet",
+	"R": 170,
+	"G": 170,
+	"B": 240
+  },
+  {
+    "GelColor": "L142",
+	"GelName": "Pale Violet",
+	"R": 170,
+	"G": 170,
+	"B": 240
+  },
+  {
+    "GelColor": "L147",
+	"GelName": "Apricot",
+	"R": 230,
+	"G": 206,
+	"B": 184
+  },
+  {
+    "GelColor": "L152",
+	"GelName": "Pale Gold",
+	"R": 255,
+	"G": 211,
+	"B": 194
+  },
+  {
+    "GelColor": "L153",
+	"GelName": "Pale Salmon",
+	"R": 255,
+	"G": 200,
+	"B": 200
+  },
+  {
+    "GelColor": "L154",
+	"GelName": "Pale Rose",
+	"R": 255,
+	"G": 213,
+	"B": 207
+  },
+  {
+    "GelColor": "L161",
+	"GelName": "Slate Blue",
+	"R": 125,
+	"G": 210,
+	"B": 245
+  },
+  {
+    "GelColor": "L174",
+	"GelName": "Dark Steel Blue",
+	"R": 175,
+	"G": 225,
+	"B": 250
+  },
+  {
+    "GelColor": "L186",
+	"GelName": "Cosmetic Silver Rose",
+	"R": 248,
+	"G": 220,
+	"B": 221
+  },
+  {
+    "GelColor": "L187",
+	"GelName": "Cosmetic Rouge",
+	"R": 245,
+	"G": 228,
+	"B": 215
+  },
+  {
+    "GelColor": "L191",
+	"GelName": "Cosmetic Aqua Blue",
+	"R": 233,
+	"G": 238,
+	"B": 238
+  },
+  {
+    "GelColor": "L201",
+	"GelName": "Full C.T. Blue",
+	"R": 195,
+	"G": 225,
+	"B": 250
+  },
+  {
+    "GelColor": "L202",
+	"GelName": "Half C.T. Blue",
+	"R": 215,
+	"G": 240,
+	"B": 255
+  },
+  {
+    "GelColor": "L203",
+	"GelName": "Quarter C.T. Blue",
+	"R": 235,
+	"G": 252,
+	"B": 255
+  },
+  {
+    "GelColor": "L205",
+	"GelName": "Half C.T. Orange",
+	"R": 230,
+	"G": 206,
+	"B": 184
+  },
+  {
+    "GelColor": "L212",
+	"GelName": "L.C.T. Yellow",
+	"R": 255,
+	"G": 250,
+	"B": 215
+  },
+  {
+    "GelColor": "L213",
+	"GelName": "White Flame Green",
+	"R": 230,
+	"G": 252,
+	"B": 220
+  }
+
+]
+}

@@ -1,0 +1,258 @@
+{
+  "Cues": [			
+    {
+      "CueId": 1,	
+      "CueChanges": [
+        {
+          "channelID": 88,
+          "Intensity": 65
+        }
+      ]
+    },
+    {
+      "CueId": 2,
+      "CueChanges": [
+	    {
+		  "channelID": 92,
+		  "Intensity": 50
+		},
+		{
+		  "channelID": 88,
+		  "Intensity": 50
+		},
+	    {
+		  "channelID": 93,
+		  "Intensity": 50
+		}
+      ]
+    },
+    {
+      "CueId": 3,
+      "CueChanges": [
+        {
+          "channelID": 62,
+          "Intensity": 35
+        },
+        {
+          "channelID": 50,
+          "Intensity": 15
+        },
+        {
+          "channelID": 93,
+          "Intensity": 10
+        },
+        {
+          "channelID": 92,
+          "Intensity": 15
+        },
+        {
+          "channelID": 88,
+          "Intensity": 0
+        }
+      ]
+    },
+    {
+      "CueId": 4,
+      "CueChanges": [
+        {
+          "channelID": 98,
+          "Intensity": 100
+        },
+        {
+          "channelID": 112,
+          "Intensity": 100
+        },
+        {
+          "channelID": 130,
+          "Intensity": 50
+        },
+        {
+          "channelID": 148,
+          "Intensity": 50
+        },
+        {
+          "channelID": 153,
+          "Intensity": 50
+        }
+      ]
+    },
+    {
+      "CueId": 5,
+      "CueChanges": [        
+        {
+          "channelID": 127,
+          "Intensity": 50
+        },
+		{
+          "channelID": 42,
+          "Intensity": 100
+        },
+		{
+          "channelID": 85,
+          "Intensity": 40
+        },
+		{
+          "channelID": 110,
+          "Intensity": 40
+        }
+      ]
+    },
+    {
+      "CueId": 6,
+      "CueChanges": [        
+        {
+          "channelID": 153,
+          "Intensity": 0
+        },
+		{
+          "channelID": 98,
+          "Intensity": 0
+        },
+		{
+          "channelID": 112,
+          "Intensity": 0
+        },
+		{
+          "channelID": 85,
+          "Intensity": 40
+        },
+		{
+          "channelID": 110,
+          "Intensity": 40
+        }
+      ]
+    },
+    {
+      "CueId": 7,
+      "CueChanges": [        
+        {
+          "channelID": 144,
+          "Intensity": 50
+        },
+		{
+          "channelID": 110,
+          "Intensity": 0
+        },
+		{
+          "channelID": 148,
+          "Intensity": 30
+        },
+		{
+          "channelID": 42,
+          "Intensity": 100
+        },
+		{
+          "channelID": 85,
+          "Intensity": 40
+        },
+		{
+          "channelID": 110,
+          "Intensity": 40
+        }
+      ]
+    },
+    {
+      "CueId": 8,
+      "CueChanges": [
+	    {
+		  "channelID": 181,
+		  "Intensity": 65
+		},
+		{
+		  "channelID": 87,
+		  "Intensity": 50
+		},
+	    {
+		  "channelID": 171,
+		  "Intensity": 65
+		},
+	    {
+		  "channelID": 169,
+		  "Intensity": 65
+		},
+	    {
+		  "channelID": 185,
+		  "Intensity": 65
+		},
+		{
+		  "channelID": 195,
+		  "Intensity": 50
+		},
+		{
+		  "channelID": 209,
+		  "Intensity": 50
+		},
+        {
+          "channelID": 151,
+          "Intensity": 50
+        },
+        {
+          "channelID": 106,
+          "Intensity": 50
+        },
+        {
+          "channelID": 100,
+          "Intensity": 50
+        }
+      ]
+    },
+    {
+      "CueId": 9,
+      "CueChanges": [
+	    {
+		  "channelID": 181,
+		  "Intensity": 35
+		},
+		{
+		  "channelID": 87,
+		  "Intensity": 25
+		},
+	    {
+		  "channelID": 171,
+		  "Intensity": 40
+		},
+	    {
+		  "channelID": 169,
+		  "Intensity": 40
+		},
+	    {
+		  "channelID": 185,
+		  "Intensity": 40
+		},
+		{
+		  "channelID": 195,
+		  "Intensity": 25
+		},
+		{
+		  "channelID": 209,
+		  "Intensity": 25
+		},
+        {
+          "channelID": 151,
+          "Intensity": 25
+        },
+        {
+          "channelID": 106,
+          "Intensity": 25
+        },
+        {
+          "channelID": 100,
+          "Intensity": 25
+        },
+		{
+          "channelID": 257,
+          "Intensity": 100
+        }
+      ]
+    },
+    {
+      "CueId": 10,
+      "CueChanges": [
+		{
+          "channelID": 257,
+          "Intensity": 100
+        }
+      ]
+    }
+  ]
+}

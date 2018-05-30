@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 832bf3b03b1bc7147b21994998bf4efc
+timeCreated: 1483571911
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: W-Wide Flange-Column W14X96 [277913]
+    100004: W-Wide Flange-Column W14X96 [285782]
+    100006: W-Wide Flange-Column W16X96 [276537]
+    100008: W-Wide Flange-Column W16X96 [277888]
+    100010: W-Wide Flange-Column W16X96 [277958]
+    100012: W-Wide Flange-Column W16X96 [285666]
+    100014: W-Wide Flange-Column W16X96 [285697]
+    100016: W-Wide Flange-Column W16X96 [285746]
+    100018: W-Wide Flange-Column W16X96 [285778]
+    100020: W-Wide Flange-Column W16X96 [285780]
+    100022: W-Wide Flange-Column W16X96 [285784]
+    100024: W-Wide Flange-Column W16X96 [285786]
+    100026: W-Wide Flange-Column W16X96 [285788]
+    100028: W-Wide Flange-Column W16X96 [285790]
+    100030: W-Wide Flange-Column W16X96 [285792]
+    100032: W-Wide Flange-Column W24X162 [433849]
+    100034: W-Wide Flange-Column W24X162 [433999]
+    100036: W-Wide Flange-Column W24X162 [434091]
+    100038: W-Wide Flange-Column W24X162 [434166]
+    100040: W-Wide Flange-Column W24X162 [434198]
+    100042: W-Wide Flange-Column W24X162 [434249]
+    100044: W-Wide Flange-Column W24X162 [434316]
+    100046: W-Wide Flange-Column W24X162 [434318]
+    100048: W-Wide Flange-Column W24X162 [434320]
+    100050: W-Wide Flange-Column W24X162 [434324]
+    100052: W-Wide Flange-Column W24X162 [434371]
+    100054: W-Wide Flange-Column W24X162 [434901]
+    100056: W-Wide Flange-Column W24X162 [435067]
+    100058: W-Wide Flange-Column W24X162 [435069]
+    100060: W-Wide Flange-Column W24X162 [435071]
+    400000: //RootNode
+    400002: W-Wide Flange-Column W14X96 [277913]
+    400004: W-Wide Flange-Column W14X96 [285782]
+    400006: W-Wide Flange-Column W16X96 [276537]
+    400008: W-Wide Flange-Column W16X96 [277888]
+    400010: W-Wide Flange-Column W16X96 [277958]
+    400012: W-Wide Flange-Column W16X96 [285666]
+    400014: W-Wide Flange-Column W16X96 [285697]
+    400016: W-Wide Flange-Column W16X96 [285746]
+    400018: W-Wide Flange-Column W16X96 [285778]
+    400020: W-Wide Flange-Column W16X96 [285780]
+    400022: W-Wide Flange-Column W16X96 [285784]
+    400024: W-Wide Flange-Column W16X96 [285786]
+    400026: W-Wide Flange-Column W16X96 [285788]
+    400028: W-Wide Flange-Column W16X96 [285790]
+    400030: W-Wide Flange-Column W16X96 [285792]
+    400032: W-Wide Flange-Column W24X162 [433849]
+    400034: W-Wide Flange-Column W24X162 [433999]
+    400036: W-Wide Flange-Column W24X162 [434091]
+    400038: W-Wide Flange-Column W24X162 [434166]
+    400040: W-Wide Flange-Column W24X162 [434198]
+    400042: W-Wide Flange-Column W24X162 [434249]
+    400044: W-Wide Flange-Column W24X162 [434316]
+    400046: W-Wide Flange-Column W24X162 [434318]
+    400048: W-Wide Flange-Column W24X162 [434320]
+    400050: W-Wide Flange-Column W24X162 [434324]
+    400052: W-Wide Flange-Column W24X162 [434371]
+    400054: W-Wide Flange-Column W24X162 [434901]
+    400056: W-Wide Flange-Column W24X162 [435067]
+    400058: W-Wide Flange-Column W24X162 [435069]
+    400060: W-Wide Flange-Column W24X162 [435071]
+    2300000: W-Wide Flange-Column W14X96 [277913]
+    2300002: W-Wide Flange-Column W14X96 [285782]
+    2300004: W-Wide Flange-Column W16X96 [276537]
+    2300006: W-Wide Flange-Column W16X96 [277888]
+    2300008: W-Wide Flange-Column W16X96 [277958]
+    2300010: W-Wide Flange-Column W16X96 [285666]
+    2300012: W-Wide Flange-Column W16X96 [285697]
+    2300014: W-Wide Flange-Column W16X96 [285746]
+    2300016: W-Wide Flange-Column W16X96 [285778]
+    2300018: W-Wide Flange-Column W16X96 [285780]
+    2300020: W-Wide Flange-Column W16X96 [285784]
+    2300022: W-Wide Flange-Column W16X96 [285786]
+    2300024: W-Wide Flange-Column W16X96 [285788]
+    2300026: W-Wide Flange-Column W16X96 [285790]
+    2300028: W-Wide Flange-Column W16X96 [285792]
+    2300030: W-Wide Flange-Column W24X162 [433849]
+    2300032: W-Wide Flange-Column W24X162 [433999]
+    2300034: W-Wide Flange-Column W24X162 [434091]
+    2300036: W-Wide Flange-Column W24X162 [434166]
+    2300038: W-Wide Flange-Column W24X162 [434198]
+    2300040: W-Wide Flange-Column W24X162 [434249]
+    2300042: W-Wide Flange-Column W24X162 [434316]
+    2300044: W-Wide Flange-Column W24X162 [434318]
+    2300046: W-Wide Flange-Column W24X162 [434320]
+    2300048: W-Wide Flange-Column W24X162 [434324]
+    2300050: W-Wide Flange-Column W24X162 [434371]
+    2300052: W-Wide Flange-Column W24X162 [434901]
+    2300054: W-Wide Flange-Column W24X162 [435067]
+    2300056: W-Wide Flange-Column W24X162 [435069]
+    2300058: W-Wide Flange-Column W24X162 [435071]
+    3300000: W-Wide Flange-Column W14X96 [277913]
+    3300002: W-Wide Flange-Column W14X96 [285782]
+    3300004: W-Wide Flange-Column W16X96 [276537]
+    3300006: W-Wide Flange-Column W16X96 [277888]
+    3300008: W-Wide Flange-Column W16X96 [277958]
+    3300010: W-Wide Flange-Column W16X96 [285666]
+    3300012: W-Wide Flange-Column W16X96 [285697]
+    3300014: W-Wide Flange-Column W16X96 [285746]
+    3300016: W-Wide Flange-Column W16X96 [285778]
+    3300018: W-Wide Flange-Column W16X96 [285780]
+    3300020: W-Wide Flange-Column W16X96 [285784]
+    3300022: W-Wide Flange-Column W16X96 [285786]
+    3300024: W-Wide Flange-Column W16X96 [285788]
+    3300026: W-Wide Flange-Column W16X96 [285790]
+    3300028: W-Wide Flange-Column W16X96 [285792]
+    3300030: W-Wide Flange-Column W24X162 [433849]
+    3300032: W-Wide Flange-Column W24X162 [433999]
+    3300034: W-Wide Flange-Column W24X162 [434091]
+    3300036: W-Wide Flange-Column W24X162 [434166]
+    3300038: W-Wide Flange-Column W24X162 [434198]
+    3300040: W-Wide Flange-Column W24X162 [434249]
+    3300042: W-Wide Flange-Column W24X162 [434316]
+    3300044: W-Wide Flange-Column W24X162 [434318]
+    3300046: W-Wide Flange-Column W24X162 [434320]
+    3300048: W-Wide Flange-Column W24X162 [434324]
+    3300050: W-Wide Flange-Column W24X162 [434371]
+    3300052: W-Wide Flange-Column W24X162 [434901]
+    3300054: W-Wide Flange-Column W24X162 [435067]
+    3300056: W-Wide Flange-Column W24X162 [435069]
+    3300058: W-Wide Flange-Column W24X162 [435071]
+    4300000: W-Wide Flange-Column W16X96 [276537]
+    4300002: W-Wide Flange-Column W16X96 [277888]
+    4300004: W-Wide Flange-Column W14X96 [277913]
+    4300006: W-Wide Flange-Column W16X96 [277958]
+    4300008: W-Wide Flange-Column W16X96 [285666]
+    4300010: W-Wide Flange-Column W16X96 [285697]
+    4300012: W-Wide Flange-Column W16X96 [285746]
+    4300014: W-Wide Flange-Column W16X96 [285778]
+    4300016: W-Wide Flange-Column W16X96 [285780]
+    4300018: W-Wide Flange-Column W14X96 [285782]
+    4300020: W-Wide Flange-Column W16X96 [285784]
+    4300022: W-Wide Flange-Column W16X96 [285786]
+    4300024: W-Wide Flange-Column W16X96 [285788]
+    4300026: W-Wide Flange-Column W16X96 [285790]
+    4300028: W-Wide Flange-Column W16X96 [285792]
+    4300030: W-Wide Flange-Column W24X162 [433849]
+    4300032: W-Wide Flange-Column W24X162 [433999]
+    4300034: W-Wide Flange-Column W24X162 [434091]
+    4300036: W-Wide Flange-Column W24X162 [434166]
+    4300038: W-Wide Flange-Column W24X162 [434198]
+    4300040: W-Wide Flange-Column W24X162 [434249]
+    4300042: W-Wide Flange-Column W24X162 [434316]
+    4300044: W-Wide Flange-Column W24X162 [434318]
+    4300046: W-Wide Flange-Column W24X162 [434320]
+    4300048: W-Wide Flange-Column W24X162 [434324]
+    4300050: W-Wide Flange-Column W24X162 [434371]
+    4300052: W-Wide Flange-Column W24X162 [434901]
+    4300054: W-Wide Flange-Column W24X162 [435067]
+    4300056: W-Wide Flange-Column W24X162 [435069]
+    4300058: W-Wide Flange-Column W24X162 [435071]
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

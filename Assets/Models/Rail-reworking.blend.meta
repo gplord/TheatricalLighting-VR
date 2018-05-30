@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: d2ceb2bc7d794c74dbdbcc52ccc29695
+timeCreated: 1491975894
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Door
+    100006: Door_001
+    100008: Door_002
+    100010: Door_003
+    100012: Light
+    100014: Mount
+    100016: Rail-Metal
+    100018: //RootNode
+    100020: Door-Bottom
+    100022: Door-Left
+    100024: Door-Right
+    100026: Door-Top
+    400000: Armature
+    400002: Bone
+    400004: Door
+    400006: Door_001
+    400008: Door_002
+    400010: Door_003
+    400012: Light
+    400014: Mount
+    400016: Rail-Metal
+    400018: //RootNode
+    400020: Door-Bottom
+    400022: Door-Left
+    400024: Door-Right
+    400026: Door-Top
+    2300000: Mount
+    2300002: Rail-Metal
+    2300004: Door-Bottom
+    2300006: Door-Left
+    2300008: Door-Right
+    2300010: Door-Top
+    2300012: Light
+    3300000: Mount
+    3300002: Rail-Metal
+    3300004: Door-Bottom
+    3300006: Door-Left
+    3300008: Door-Right
+    3300010: Door-Top
+    3300012: Light
+    4300000: Mount
+    4300002: Door_001
+    4300004: Door_002
+    4300006: Door_003
+    4300008: Door
+    4300010: Light
+    4300012: Rail-Metal
+    4300014: Door-Top
+    4300016: Door-Left
+    4300018: Door-Right
+    4300020: Door-Bottom
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Door
+    13700002: Door_001
+    13700004: Door_002
+    13700006: Door_003
+    13700008: Light
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+
+public class LightCues
+{
+    public SortedDictionary<floats, SortedDictionary<int, LightCueData>> lightCuesDictionary;
+
+    lightCuesDictionary<0.5, SortedDictionary<1, LightCueData thisCue> = new SortedDictionary<float, SortedDictionary<int, LightCueData>>();
+
+    
+}

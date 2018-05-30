@@ -1,0 +1,79 @@
+{
+  "Cues": [
+    {
+      "CueID": 0.5,
+      "ChannelCues": [
+        {
+          "ChannelID": 1,
+          "CueParameters": [
+            {
+              "ParameterType": 1,
+              "ParameterTypeAsText": "Intens",
+              "Level": 0
+            }
+          ]
+        },
+        {
+          "ChannelID": 6,
+          "CueParameters": [
+            {
+              "ParameterType": 1,
+              "ParameterTypeAsText": "Intens",
+              "Level": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CueID": 1.7,
+      "ChannelCues": [
+        {
+          "ChannelID": 88,
+          "CueParameters": [
+            {
+              "ParameterType": 1,
+              "ParameterTypeAsText": "Intens",
+              "Level": 100
+            }
+          ]
+        },
+        {
+          "ChannelID": 92,
+          "CueParameters": [
+            {
+              "ParameterType": 1,
+              "ParameterTypeAsText": "Intens",
+              "Level": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CueID": 2,
+      "ChannelCues": [
+        {
+          "ChannelID": 56,
+          "CueParameters": [
+            {
+              "ParameterType": 1,
+              "ParameterTypeAsText": "Intens",
+              "Level": 50
+            }
+          ]
+        },
+        {
+          "ChannelID": 67,
+          "CueParameters": [
+            {
+              "ParameterType": 1,
+              "ParameterTypeAsText": "Intens",
+              "Level": 50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

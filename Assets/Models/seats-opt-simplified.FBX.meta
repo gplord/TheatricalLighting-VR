@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 38be6dcc4b5459d4e9597ee8e2c810e3
+timeCreated: 1484106112
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]
+    100004: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001
+    100006: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001_MeshPart0
+    100008: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001_MeshPart1
+    100010: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart0
+    100012: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart1
+    100014: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]
+    100016: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001
+    100018: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001_MeshPart0
+    100020: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001_MeshPart1
+    100022: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart0
+    100024: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart1
+    100026: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]
+    100028: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]001
+    100030: Cen002
+    100032: Cen1
+    100034: Cent003
+    100036: Cent2
+    100038: i
+    100040: i001
+    100042: i001_MeshPart0
+    100044: i001_MeshPart1
+    100046: i_MeshPart0
+    100048: i_MeshPart1
+    100050: ii
+    100052: ii001
+    100054: ii001_MeshPart0
+    100056: ii001_MeshPart1
+    100058: ii_MeshPart0
+    100060: ii_MeshPart1
+    100062: iii
+    100064: iii001
+    100066: iii001_MeshPart0
+    100068: iii001_MeshPart1
+    100070: iii_MeshPart0
+    100072: iii_MeshPart1
+    100074: iv
+    100076: iv001
+    100078: iv001_MeshPart0
+    100080: iv001_MeshPart1
+    100082: iv_MeshPart0
+    100084: iv_MeshPart1
+    100086: v
+    100088: v001
+    100090: v001_MeshPart0
+    100092: v001_MeshPart1
+    100094: v_MeshPart0
+    100096: v_MeshPart1
+    100098: vi
+    100100: vi001
+    100102: vi001_MeshPart0
+    100104: vi001_MeshPart1
+    100106: vi_MeshPart0
+    100108: vi_MeshPart1
+    400000: //RootNode
+    400002: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]
+    400004: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001
+    400006: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001_MeshPart0
+    400008: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001_MeshPart1
+    400010: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart0
+    400012: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart1
+    400014: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]
+    400016: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001
+    400018: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001_MeshPart0
+    400020: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001_MeshPart1
+    400022: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart0
+    400024: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart1
+    400026: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]
+    400028: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]001
+    400030: Cen002
+    400032: Cen1
+    400034: Cent003
+    400036: Cent2
+    400038: i
+    400040: i001
+    400042: i001_MeshPart0
+    400044: i001_MeshPart1
+    400046: i_MeshPart0
+    400048: i_MeshPart1
+    400050: ii
+    400052: ii001
+    400054: ii001_MeshPart0
+    400056: ii001_MeshPart1
+    400058: ii_MeshPart0
+    400060: ii_MeshPart1
+    400062: iii
+    400064: iii001
+    400066: iii001_MeshPart0
+    400068: iii001_MeshPart1
+    400070: iii_MeshPart0
+    400072: iii_MeshPart1
+    400074: iv
+    400076: iv001
+    400078: iv001_MeshPart0
+    400080: iv001_MeshPart1
+    400082: iv_MeshPart0
+    400084: iv_MeshPart1
+    400086: v
+    400088: v001
+    400090: v001_MeshPart0
+    400092: v001_MeshPart1
+    400094: v_MeshPart0
+    400096: v_MeshPart1
+    400098: vi
+    400100: vi001
+    400102: vi001_MeshPart0
+    400104: vi001_MeshPart1
+    400106: vi_MeshPart0
+    400108: vi_MeshPart1
+    2300000: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001_MeshPart0
+    2300002: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001_MeshPart1
+    2300004: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart0
+    2300006: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart1
+    2300008: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001_MeshPart0
+    2300010: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001_MeshPart1
+    2300012: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart0
+    2300014: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart1
+    2300016: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]
+    2300018: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]001
+    2300020: Cen002
+    2300022: Cen1
+    2300024: Cent003
+    2300026: Cent2
+    2300028: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]
+    2300030: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001
+    2300032: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]
+    2300034: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001
+    2300036: i001_MeshPart0
+    2300038: i001_MeshPart1
+    2300040: i_MeshPart0
+    2300042: i_MeshPart1
+    2300044: ii001_MeshPart0
+    2300046: ii001_MeshPart1
+    2300048: ii_MeshPart0
+    2300050: ii_MeshPart1
+    2300052: iii001_MeshPart0
+    2300054: iii001_MeshPart1
+    2300056: iii_MeshPart0
+    2300058: iii_MeshPart1
+    2300060: iv001_MeshPart0
+    2300062: iv001_MeshPart1
+    2300064: iv_MeshPart0
+    2300066: iv_MeshPart1
+    2300068: v001_MeshPart0
+    2300070: v001_MeshPart1
+    2300072: v_MeshPart0
+    2300074: v_MeshPart1
+    2300076: vi001_MeshPart0
+    2300078: vi001_MeshPart1
+    2300080: vi_MeshPart0
+    2300082: vi_MeshPart1
+    2300084: i
+    2300086: ii
+    2300088: iii
+    2300090: iv
+    2300092: v
+    2300094: vi
+    3300000: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001_MeshPart0
+    3300002: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001_MeshPart1
+    3300004: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart0
+    3300006: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart1
+    3300008: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001_MeshPart0
+    3300010: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001_MeshPart1
+    3300012: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart0
+    3300014: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart1
+    3300016: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]
+    3300018: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]001
+    3300020: Cen002
+    3300022: Cen1
+    3300024: Cent003
+    3300026: Cent2
+    3300028: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]
+    3300030: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]001
+    3300032: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]
+    3300034: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]001
+    3300036: i001_MeshPart0
+    3300038: i001_MeshPart1
+    3300040: i_MeshPart0
+    3300042: i_MeshPart1
+    3300044: ii001_MeshPart0
+    3300046: ii001_MeshPart1
+    3300048: ii_MeshPart0
+    3300050: ii_MeshPart1
+    3300052: iii001_MeshPart0
+    3300054: iii001_MeshPart1
+    3300056: iii_MeshPart0
+    3300058: iii_MeshPart1
+    3300060: iv001_MeshPart0
+    3300062: iv001_MeshPart1
+    3300064: iv_MeshPart0
+    3300066: iv_MeshPart1
+    3300068: v001_MeshPart0
+    3300070: v001_MeshPart1
+    3300072: v_MeshPart0
+    3300074: v_MeshPart1
+    3300076: vi001_MeshPart0
+    3300078: vi001_MeshPart1
+    3300080: vi_MeshPart0
+    3300082: vi_MeshPart1
+    3300084: i
+    3300086: ii
+    3300088: iii
+    3300090: iv
+    3300092: v
+    3300094: vi
+    4300000: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart0
+    4300002: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]_MeshPart1
+    4300004: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart0
+    4300006: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]_MeshPart1
+    4300008: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [543144]
+    4300010: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [510443]
+    4300012: Theater Seat generic left arm only Theater Seat generic left arm deck
+      04 [535894]
+    4300014: Cen1
+    4300016: Cent2
+    4300018: iv_MeshPart0
+    4300020: iv_MeshPart1
+    4300022: i_MeshPart0
+    4300024: i_MeshPart1
+    4300026: ii_MeshPart0
+    4300028: ii_MeshPart1
+    4300030: iii_MeshPart0
+    4300032: iii_MeshPart1
+    4300034: v_MeshPart0
+    4300036: v_MeshPart1
+    4300038: vi_MeshPart0
+    4300040: vi_MeshPart1
+    4300042: iv
+    4300044: i
+    4300046: ii
+    4300048: iii
+    4300050: v
+    4300052: vi
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

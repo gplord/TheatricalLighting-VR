@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 1a6f9024ae233f341962c54c91306955
+timeCreated: 1483571684
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Compound Ceiling Ceiling 3 [622504]
+    100004: Compound Ceiling Ceiling 3 [628424]
+    100006: Floor Gallery Walk - 2" [364061]
+    100008: Floor Gallery Walk - 2" [364068]
+    100010: Floor Gallery Walk - 2" [364090]
+    100012: Floor Gallery Walk - 2" [582526]
+    100014: Floor Generic - 3" [321401]
+    100016: Floor Generic - 3" [321447]
+    100018: Floor Generic - 3" [321727]
+    100020: Floor Generic - 3" [321742]
+    100022: Floor Generic - 3" [364037]
+    100024: Floor Generic - 3" [364051]
+    100026: Floor Generic - 3" [366052]
+    100028: Floor Generic - 3" [366372]
+    100030: Floor Generic - 3" [525325]
+    400000: //RootNode
+    400002: Compound Ceiling Ceiling 3 [622504]
+    400004: Compound Ceiling Ceiling 3 [628424]
+    400006: Floor Gallery Walk - 2" [364061]
+    400008: Floor Gallery Walk - 2" [364068]
+    400010: Floor Gallery Walk - 2" [364090]
+    400012: Floor Gallery Walk - 2" [582526]
+    400014: Floor Generic - 3" [321401]
+    400016: Floor Generic - 3" [321447]
+    400018: Floor Generic - 3" [321727]
+    400020: Floor Generic - 3" [321742]
+    400022: Floor Generic - 3" [364037]
+    400024: Floor Generic - 3" [364051]
+    400026: Floor Generic - 3" [366052]
+    400028: Floor Generic - 3" [366372]
+    400030: Floor Generic - 3" [525325]
+    2300000: Compound Ceiling Ceiling 3 [622504]
+    2300002: Compound Ceiling Ceiling 3 [628424]
+    2300004: Floor Gallery Walk - 2" [364061]
+    2300006: Floor Gallery Walk - 2" [364068]
+    2300008: Floor Gallery Walk - 2" [364090]
+    2300010: Floor Gallery Walk - 2" [582526]
+    2300012: Floor Generic - 3" [321401]
+    2300014: Floor Generic - 3" [321447]
+    2300016: Floor Generic - 3" [321727]
+    2300018: Floor Generic - 3" [321742]
+    2300020: Floor Generic - 3" [364037]
+    2300022: Floor Generic - 3" [364051]
+    2300024: Floor Generic - 3" [366052]
+    2300026: Floor Generic - 3" [366372]
+    2300028: Floor Generic - 3" [525325]
+    3300000: Compound Ceiling Ceiling 3 [622504]
+    3300002: Compound Ceiling Ceiling 3 [628424]
+    3300004: Floor Gallery Walk - 2" [364061]
+    3300006: Floor Gallery Walk - 2" [364068]
+    3300008: Floor Gallery Walk - 2" [364090]
+    3300010: Floor Gallery Walk - 2" [582526]
+    3300012: Floor Generic - 3" [321401]
+    3300014: Floor Generic - 3" [321447]
+    3300016: Floor Generic - 3" [321727]
+    3300018: Floor Generic - 3" [321742]
+    3300020: Floor Generic - 3" [364037]
+    3300022: Floor Generic - 3" [364051]
+    3300024: Floor Generic - 3" [366052]
+    3300026: Floor Generic - 3" [366372]
+    3300028: Floor Generic - 3" [525325]
+    4300000: Floor Generic - 3" [321401]
+    4300002: Floor Generic - 3" [321447]
+    4300004: Floor Generic - 3" [321727]
+    4300006: Floor Generic - 3" [321742]
+    4300008: Floor Generic - 3" [364037]
+    4300010: Floor Generic - 3" [364051]
+    4300012: Floor Gallery Walk - 2" [364061]
+    4300014: Floor Gallery Walk - 2" [364068]
+    4300016: Floor Gallery Walk - 2" [364090]
+    4300018: Floor Generic - 3" [366052]
+    4300020: Floor Generic - 3" [366372]
+    4300022: Floor Generic - 3" [525325]
+    4300024: Floor Gallery Walk - 2" [582526]
+    4300026: Compound Ceiling Ceiling 3 [622504]
+    4300028: Compound Ceiling Ceiling 3 [628424]
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
